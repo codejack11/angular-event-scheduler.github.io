@@ -19,7 +19,7 @@
     "@fortawesome/free-solid-svg-icons": "5.10.1",
     "@types/googlemaps": "^3.37.3",
     "angularx-flatpickr": "6.1.0",
-    "bootstrap": "4.3.1",
+    "bootstrap": "5.0.0",
     "core-js": "2.6.9",
     "flatpickr": "4.6.2",
     "jquery": "^3.5.1",
